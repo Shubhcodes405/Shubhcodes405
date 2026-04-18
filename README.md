@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Shubham Choudhary 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer · GenAI & LLM Systems · AWS · Azure · Open to May 2026 Roles</b>
+  <b>AI/ML Engineer · GenAI & LLM Systems · AWS · GCP </b>
 </p>
 
 <p align="center">
