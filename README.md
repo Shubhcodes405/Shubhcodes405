@@ -6,21 +6,18 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/shubham-choudhary-25832315a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shubhamcs1ch@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Shubhcodes405&style=for-the-badge&color=0e75b6"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm an **AI/ML Engineer with 4+ years of experience** building and deploying production-grade machine learning, LLM, and GenAI systems that solve real business problems at scale.
+I'm an **AI/ML Engineer with 4 years of experience** building and deploying production grade machine learning, LLM, and GenAI systems that solve real business problems at scale.
 
 - 🏢 **Data Scientist @ Globe Life** — ML pipelines processing 10M+ records on AWS SageMaker & EKS
 - 🎓 **MS in Data Science @ Oklahoma State University** — GPA 4.0/4.0 · Graduating May 2026
 - 📄 **Co-inventor of a filed patent** — AI Testing Agent (LLM + Computer Vision) → $1M+ in enterprise revenue
 - 🏆 **1st Place** — OSU 2024 Analytics Case Competition (20+ teams)
-- 🌍 Based in Dallas TX · Open to Relocate · Available May 2026
 
 ---
 
